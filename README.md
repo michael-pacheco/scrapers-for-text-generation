@@ -23,7 +23,7 @@ scrapy runspider anime_scraper.py
 <h2>Requirements for using trainers:</h2>
 <ul>
   <li>
-    Tensorflow (pip install scrapy)
+    Tensorflow (pip install tensorflow)
   </li>
   <li>
     Keras (pip install keras)
