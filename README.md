@@ -12,13 +12,13 @@ Text generation using LSTM from <a href="https://github.com/fchollet/keras/blob/
 
 <h2>Using scrapers:</h2>
 Install scrapy:
-```shell
+
 pip install scrapy
-```
+
+<br>
 Use the scrapy command to run the spider:
-```shell
 scrapy runspider anime_scraper.py
-```
+
 
 <h2>Requirements for using trainers:</h2>
 <ul>
